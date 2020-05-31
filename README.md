@@ -1,6 +1,6 @@
 # SDE-1
-#  Prim's Minimum Spanning Tree
-#  Kruskal's Minimum Spannig Tree
+>  Prim's Minimum Spanning Tree
+>  Kruskal's Minimum Spannig Tree
 #  Fractional Knapsack
 #  Prim's Algorithm Using Min Heap
 #  Depth First Traverasl
