@@ -5,7 +5,7 @@
 #  Depth First Traversal
 #  Dijsktra's Algorithm
 #  Fractional Knapsack
+# Codevita round 2 challenges(Hackerrank)
 #  Prim's Minimum Spanning Tree
 #  Prim's Algorithm Using Min Heap
 #  Super Substring
-# Codevita round 2 challenges(Hackerrank)
