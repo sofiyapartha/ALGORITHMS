@@ -8,3 +8,4 @@
 #  Prim's Minimum Spanning Tree
 #  Prim's Algorithm Using Min Heap
 #  Super Substring
+# Codevita round 2 challenges(Hackerrank)
