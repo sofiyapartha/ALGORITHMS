@@ -1,7 +1,7 @@
 # SDE-1
-#  0/1 Knapsack
 #  Longest Increasing Subsequence
 #  Longest Repeating Subsequence
+#  0/1 Knapsack
 #  Longest Subsequence
 #  Subsequence product less than k value
 #  Kruskal's Minimum Spannig Tree
